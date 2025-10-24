@@ -12,17 +12,16 @@ A backend-focused, scalable WebSocket server for real-time chat applications. De
 
 ## 📦 Tech Stack
 
-- **Node.js / TypeScript** (or specify your language/framework)
+- **Bun / TypeScript** (or specify your language/framework)
 - **WebSocket / ws** 
 - **Redis** (for pub/sub and horizontal scaling)
 - **Docker** (for containerization)
-- **Nginx / Load Balancer** (for scaling across instances - optional)
 
 ## 🛠️ Getting Started
 
 ### Prerequisites
 
-- Node.js vXX or higher
+- Bun latest
 - Redis (optional for pub/sub scaling)
 
 
